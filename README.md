@@ -1,17 +1,4 @@
-# <table>
-  <tr>
-    <td width="70%">
-      <h2>💫 About Me:</h2>
-      <p>
-        Hi, I'm <b>Shivani Kumari Singh!</b> 👋 <br><br>
-        I am a <b>B.Tech CSE (Cybersecurity)</b> student dedicated to exploring the intersection of secure networking and modern web development. I spend my time solving CTF challenges, mastering security tools, and building user-centric frontend projects. I'm passionate about identifying vulnerabilities and engineering creative, secure solutions to real-world problems.
-      </p>
-    </td>
-    <td width="30%" align="center">
-      <img src="./jpeg/jpeg" width="200" style="border-radius: 20px; border: 2px solid #58a6ff;">
-    </td>
-  </tr>
-</table>
+
 # 💫 About Me:
 Hi, I’m Shivani Kumari Singh!<br><br>    I am a B.Tech CSE (Cybersecurity) student dedicated to exploring the intersection of secure networking and modern web development. I spend my time solving CTF challenges, mastering security tools, and building user-centric frontend projects. I’m passionate about identifying vulnerabilities and engineering creative, secure solutions to real-world problems.
 #  <p align="center">
