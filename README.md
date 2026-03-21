@@ -1,21 +1,6 @@
-## Hi there 👋
-
-<!--Hi, I’m Shivani Kumari Singh!
-
-    I am a B.Tech CSE (Cybersecurity) student dedicated to exploring the intersection of secure networking and modern web development. I spend my time solving CTF challenges, mastering security tools, and building user-centric frontend projects. I’m passionate about identifying vulnerabilities and engineering creative, secure solutions to real-world problems.
-**shivanisingh-sks/shivanisingh-sks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-H![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)ere are some ideas to get you started:
-
-- 🔭 I’# 💫 About Me:
+# 💫 About Me:
 Hi, I’m Shivani Kumari Singh!<br><br>    I am a B.Tech CSE (Cybersecurity) student dedicated to exploring the intersection of secure networking and modern web development. I spend my time solving CTF challenges, mastering security tools, and building user-centric frontend projects. I’m passionate about identifying vulnerabilities and engineering creative, secure solutions to real-world problems.
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivani-kumari-singh-102098314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanikumarisingh83@gmail.com) 
@@ -30,48 +15,4 @@ Hi, I’m Shivani Kumari Singh!<br><br>    I am a B.Tech CSE (Cybersecurity) stu
 ---
 [![](https://visitcount.itsvg.in/api?id=shivanisingh-sks&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->m currently working on ...
-- 🌱## 🚀 Featured Projects (3D Dashboard)
-
-<p align="center">
-  <a href="https://github.com/shivanisingh-sks/Qavach">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivanisingh-sks&repo=Qavach&theme=radical&show_owner=true" />
-  </a>
-  <br>
-  <a href="https://github.com/shivanisingh-sks/CARE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivanisingh-sks&repo=CARE&theme=radical&show_owner=true" />
-  </a>
-  <a href="https://github.com/shivanisingh-sks/SwiftAutomate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivanisingh-sks&repo=SwiftAutomate&theme=radical&show_owner=true" />
-  </a>
-</p>name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule: # Runs every day at 18:00 UTC
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: shivanisingh-sks
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "Generated 3D Profile Blocks"
-          git push I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
