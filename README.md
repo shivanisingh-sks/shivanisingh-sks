@@ -1,10 +1,24 @@
 
 # 💫 About Me:
-Hi, I’m Shivani Kumari Singh!<br><br>    I am a B.Tech CSE (Cybersecurity) student dedicated to exploring the intersection of secure networking and modern web development. I spend my time solving CTF challenges, mastering security tools, and building user-centric frontend projects. I’m passionate about identifying vulnerabilities and engineering creative, secure solutions to real-world problems.
-#  <p align="center">
-  <img src="https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Shivani's 3D Building Game" width="100%">
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/main/jpeg/jpeg" width="180" align="right" style="margin-left: 20px; border-radius: 15px;">
 </p>
 
+Hi, I'm **Shivani Kumari Singh!** 👋 <br>
+
+I am a **B.Tech CSE (Cybersecurity)** student dedicated to exploring the intersection of secure networking and modern web development. I spend my time solving CTF challenges, mastering security tools, and building user-centric frontend projects. 
+
+I'm passionate about identifying vulnerabilities and engineering creative, secure solutions to real-world problems.
+
+<br clear="right">
+
+---
+
+### 🏗️ My 3D Building Game:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Canyon" width="100%">
+</p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivani-kumari-singh-102098314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanikumarisingh83@gmail.com) 
 
