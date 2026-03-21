@@ -26,7 +26,30 @@ I'm passionate about identifying vulnerabilities and engineering creative, secur
 ![](https://github-readme-stats.vercel.app/api?username=shivanisingh-sks&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shivanisingh-sks&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanisingh-sks&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
+## 🛡️ Featured Projects
+
+### 🏗️ Qavach | Digital Service Delivery Framework
+* **Focus:** E-governance & Post-Quantum Cryptography (PQC)
+* Designed a framework utilizing **NIST-aligned PQC** to future-proof digital services.
+* Implemented **Zero-Trust Architecture** to guarantee data integrity and privacy.
+* `Cryptography` `Zero-Trust` `NIST Standards` `E-Governance`
+
+### ⚡ SwiftAutomate | OT/ICS Security & Monitoring Lab
+* **Focus:** Industrial Control Systems (ICS) & SOC Dashboards
+* Developed a low-cost ICS simulation lab integrating **Arduino sensors** with **Prometheus, Grafana, and Loki**.
+* Created a custom **Web-based SOC Dashboard** for real-time security alerts and process monitoring.
+* `OT Security` `ICS` `Grafana` `Prometheus` `Arduino`
+
+### 🏥 C.A.R.E. | Secure Health Records Sharing
+* **Focus:** Healthcare Privacy & AI Insights
+* Architected a secure data-sharing system using **encrypted FHIR bundles** and a zero-data-storage broker.
+* Integrated **AI-based insights** to analyze medical reports directly within the EMR platform.
+* `HealthTech` `FHIR` `AI/ML` `Data Privacy` `Encryption`
+### 🛡️ Security Expertise:
+`Network Security` `Zero-Trust Architecture` `Penetration Testing` `NIST Framework` `OT/ICS Security`
+---
 ---
 [![](https://visitcount.itsvg.in/api?id=shivanisingh-sks&icon=0&color=0)](https://visitcount.itsvg.in)
 
