@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 
-<img src="https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/main/jpeg/profile.png" width="180" align="right" style="margin-left: 20px; border-radius: 15px;">
+<img src="https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/main/profile.png" width="180" align="right" style="margin-left: 20px; border-radius: 15px;">
 
 Hi, I'm **Shivani Kumari Singh!** 👋 <br>
 
