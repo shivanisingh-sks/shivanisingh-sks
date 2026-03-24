@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 
-<img src="https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/main/jpeg/.png" width="180" align="right" style="margin-left: 20px; border-radius: 15px;">
+<img src="https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/main/jpeg/profile.png" width="180" align="right" style="margin-left: 20px; border-radius: 15px;">
 
 Hi, I'm **Shivani Kumari Singh!** 👋 <br>
 
@@ -47,10 +47,8 @@ I'm passionate about identifying vulnerabilities and engineering creative, secur
 * Architected a secure data-sharing system using **encrypted FHIR bundles** and a zero-data-storage broker.
 * Integrated **AI-based insights** to analyze medical reports directly within the EMR platform.
 * `HealthTech` `FHIR` `AI/ML` `Data Privacy` `Encryption`
+---
 ### 🛡️ Security Expertise:
 `Network Security` `Zero-Trust Architecture` `Penetration Testing` `NIST Framework` `OT/ICS Security`
 ---
----
-[![](https://visitcount.itsvg.in/api?id=shivanisingh-sks&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
