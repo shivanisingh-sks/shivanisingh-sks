@@ -1,54 +1,223 @@
+<div align="center">
+Hi, I'm *Shivani Kumari Singh!* 👋 <br>
 
-# 💫 About Me:
-
-<img src="https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/main/profile.png" width="180" align="right" style="margin-left: 20px; border-radius: 15px;">
-
-Hi, I'm **Shivani Kumari Singh!** 👋 <br>
-
-I am a **B.Tech CSE (Cybersecurity)** student dedicated to exploring the intersection of secure networking and modern web development. I spend my time solving CTF challenges, mastering security tools, and building user-centric frontend projects. 
+I am a *B.Tech CSE (Cybersecurity)* student dedicated to exploring the intersection of secure networking and modern web development. I spend my time solving CTF challenges, mastering security tools, and building user-centric frontend projects. 
 
 I'm passionate about identifying vulnerabilities and engineering creative, secure solutions to real-world problems.
 
-<br clear="right">
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/main/profile.png" width="180" />
+
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&pause=1200&color=00D4FF&center=true&vCenter=true&width=680&lines=Zero-Trust+Architecture+%F0%9F%9B%A1%EF%B8%8F;Post-Quantum+Cryptography+%F0%9F%94%90;OT%2FICS+Security+%26+SOC+Monitoring+%E2%9A%A1;Frontend+Development+%26+UI+Crafting+%F0%9F%8E%A8;CTF+Challenges+%26+Penetration+Testing+%F0%9F%92%BB;Building+the+future+of+secure+infrastructure...)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 🏗️ My 3D Building Game:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Canyon" width="100%">
-</p>
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivani-kumari-singh-102098314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanikumarisingh83@gmail.com) 
+<!-- HERO: PIXEL AVATAR + INTRO -->
+<table>
+<tr>
+<td width="34%" align="center" valign="top">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shivanisingh-sks&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shivanisingh-sks&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanisingh-sks&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- PIXEL ART AVATAR — upload pixel-avatar.svg to your repo root -->
+<img src="https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/main/pixel-avatar.svg" width="280" alt="Shivani Pixel Avatar"/>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shivanisingh-sks&color=00d4ff&style=flat-square&label=PROFILE+VIEWS)
+
+</td>
+<td width="66%" valign="top">
+
+### `> initialize_profile.sh`
+
+```yaml
+name     : Shivani Kumari Singh
+degree   : B.Tech CSE — Cybersecurity
+focus    :
+  - Post-Quantum Cryptography (NIST-aligned)
+  - Zero-Trust Architecture
+  - OT/ICS Security & SOC Monitoring
+  - Penetration Testing & CTF
+status   : [ ACTIVE ] Open to opportunities
+location : India 🇮🇳
+```
+
+<br/>
+
+Hi! I'm **Shivani** 👋 — a cybersecurity engineer at the intersection of **secure networking**, **post-quantum cryptography**, and **modern web development**. I spend my time solving CTF challenges, mastering security tools, and building user-centric frontend projects.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-kumari-singh-102098314)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanikumarisingh83@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanisingh-sks)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats — Live & Auto-Updating
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanisingh-sks&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c8e8f8&icon_color=7b2fff&include_all_commits=true&count_private=true)
+
+</td>
+<td align="center">
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=shivanisingh-sks&theme=transparent&hide_border=true&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=7b2fff&dates=4a7a96)
+
+</td>
+</tr>
+</table>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanisingh-sks&theme=transparent&hide_border=true&layout=compact&title_color=00d4ff&text_color=c8e8f8&langs_count=10&count_private=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies — Live
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=shivanisingh-sks&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🏗️ 3D Contribution Graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
+</div>
+
 ---
 
 ## 🛡️ Featured Projects
 
-### 🏗️ Qavach | Digital Service Delivery Framework
-* **Focus:** E-governance & Post-Quantum Cryptography (PQC)
-* Designed a framework utilizing **NIST-aligned PQC** to future-proof digital services.
-* Implemented **Zero-Trust Architecture** to guarantee data integrity and privacy.
-* `Cryptography` `Zero-Trust` `NIST Standards` `E-Governance`
+<table>
+<tr>
 
-### ⚡ SwiftAutomate | OT/ICS Security & Monitoring Lab
-* **Focus:** Industrial Control Systems (ICS) & SOC Dashboards
-* Developed a low-cost ICS simulation lab integrating **Arduino sensors** with **Prometheus, Grafana, and Loki**.
-* Created a custom **Web-based SOC Dashboard** for real-time security alerts and process monitoring.
-* `OT Security` `ICS` `Grafana` `Prometheus` `Arduino`
+<td width="33%" valign="top">
 
-### 🏥 C.A.R.E. | Secure Health Records Sharing
-* **Focus:** Healthcare Privacy & AI Insights
-* Architected a secure data-sharing system using **encrypted FHIR bundles** and a zero-data-storage broker.
-* Integrated **AI-based insights** to analyze medical reports directly within the EMR platform.
-* `HealthTech` `FHIR` `AI/ML` `Data Privacy` `Encryption`
+### 🏗️ Qavach
+**Digital Service Delivery Framework**
+
+> E-Governance · Post-Quantum Cryptography
+
+Designed a framework utilizing **NIST-aligned PQC** to future-proof digital services. Implemented **Zero-Trust Architecture** to guarantee data integrity and privacy.
+
+![Cryptography](https://img.shields.io/badge/Cryptography-0d4f6e?style=flat-square)
+![Zero-Trust](https://img.shields.io/badge/Zero--Trust-7b2fff?style=flat-square)
+![NIST](https://img.shields.io/badge/NIST-00d4ff?style=flat-square&logoColor=black)
+![E-Gov](https://img.shields.io/badge/E--Governance-00ff9f?style=flat-square&logoColor=black)
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚡ SwiftAutomate
+**OT/ICS Security & Monitoring Lab**
+
+> Industrial Control Systems · SOC
+
+Low-cost ICS simulation lab integrating **Arduino sensors** with **Prometheus, Grafana & Loki**. Custom Web SOC Dashboard for real-time security alerts.
+
+![OT Security](https://img.shields.io/badge/OT%20Security-0d4f6e?style=flat-square)
+![Grafana](https://img.shields.io/badge/Grafana-ff6b35?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🏥 C.A.R.E.
+**Secure Health Records Sharing**
+
+> HealthTech · Privacy · AI Insights
+
+Secure data-sharing using **encrypted FHIR bundles** and a zero-data-storage broker. AI-powered insights within the EMR platform.
+
+![HealthTech](https://img.shields.io/badge/HealthTech-0d4f6e?style=flat-square)
+![FHIR](https://img.shields.io/badge/FHIR-ff6b35?style=flat-square)
+![AI/ML](https://img.shields.io/badge/AI%2FML-7b2fff?style=flat-square)
+![Encryption](https://img.shields.io/badge/Encryption-00d4ff?style=flat-square&logoColor=black)
+
+</td>
+
+</tr>
+</table>
+
 ---
-### 🛡️ Security Expertise:
-`Network Security` `Zero-Trust Architecture` `Penetration Testing` `NIST Framework` `OT/ICS Security`
+
+## 💻 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
+
 ---
 
+## 🔐 Security Expertise
+
+<div align="center">
+
+| Domain | Level |
+|--------|-------|
+| 🌐 Network Security | `████████████████████` Expert |
+| 🔒 Post-Quantum Cryptography | `████████████████████` Advanced |
+| 🏰 Zero-Trust Architecture | `███████████████████░` Advanced |
+| ⚙️ OT / ICS Security | `██████████████████░░` Proficient |
+| 🔍 Penetration Testing | `██████████████████░░` Proficient |
+| 📋 NIST Framework | `████████████████████` Advanced |
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7b2fff,100:020b14&height=110&section=footer&text=Securing%20the%20Digital%20World%20%F0%9F%9B%A1%EF%B8%8F&fontSize=16&fontColor=ffffff&fontAlignY=65"/>
+
+*Crafted with 💙 by Shivani Kumari Singh · One commit at a time*
+
+</div>
