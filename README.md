@@ -1,9 +1,3 @@
-
-:) Hi, I'm *Shivani Kumari Singh!* 👋 <br>
-<img src="https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/main/profile.png" width="180" />
-I am a *B.Tech CSE (Cybersecurity)* student dedicated to exploring the intersection of secure networking and modern web development. I spend my time solving CTF challenges, mastering security tools, and building user-centric frontend projects. 
-I'm passionate about identifying vulnerabilities and engineering creative, secure solutions to real-world problems.
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -1164,4 +1158,3 @@ window.addEventListener('load', () => {
 </script>
 </body>
 </html>
-
