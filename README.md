@@ -11,7 +11,7 @@
 
 ## `> whoami`
 
-<img src="https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/main/profile.png" width="200" align="right" style="border-radius:15px;margin-left:20px"/>
+<img src="https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/main/profile.png" width="200" align="right" style="border-radius:15px; margin-left:20px; margin-bottom:10px;"/>
 
 ```bash
 $ cat identity.txt
@@ -65,7 +65,7 @@ $ cat identity.txt
 ![NPM](https://img.shields.io/badge/NPM-0d0d0d?style=for-the-badge&logo=npm&logoColor=FF2D2D)
 
 ### 🛡️ Security Expertise
-![Network Security](https://img.shields.io/badge/Network_Security-1a0000?style=for-the-badge)
+![Network Security](https://img.shields.io/badge/Network_Security-1a0000?style=for-the-badge&logoColor=FF2D2D)
 ![Zero-Trust](https://img.shields.io/badge/Zero--Trust_Architecture-1a0000?style=for-the-badge)
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-1a0000?style=for-the-badge)
 ![NIST Framework](https://img.shields.io/badge/NIST_Framework-1a0000?style=for-the-badge)
@@ -97,6 +97,7 @@ $ cat identity.txt
 
 ### 🏗️ Qavach
 **Digital Service Delivery Framework**
+
 ```
 FOCUS: E-Governance & Post-Quantum Cryptography
 ```
@@ -110,6 +111,7 @@ FOCUS: E-Governance & Post-Quantum Cryptography
 
 ### ⚡ SwiftAutomate
 **OT/ICS Security & Monitoring Lab**
+
 ```
 FOCUS: Industrial Control Systems & SOC Dashboards
 ```
@@ -125,6 +127,7 @@ FOCUS: Industrial Control Systems & SOC Dashboards
 
 ### 🏥 C.A.R.E.
 **Secure Health Records Sharing**
+
 ```
 FOCUS: Healthcare Privacy & AI Insights
 ```
@@ -138,6 +141,7 @@ FOCUS: Healthcare Privacy & AI Insights
 
 ### 🎮 Cyber Defender
 **Live Browser Game — GitHub Pages**
+
 ```
 FOCUS: Creative interactive GitHub experience
 ```
@@ -205,6 +209,7 @@ FOCUS: Creative interactive GitHub experience
 ```
 > session established.
 > think you can defend the firewall? → shivanisingh-sks.github.io/cyber-defender
+> don't just scroll — drop a ⭐ if something caught your eye.
 > connection encrypted. stay curious. stay secure. 🖤
 ```
 
