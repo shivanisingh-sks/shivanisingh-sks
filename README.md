@@ -1,52 +1,189 @@
-# 💫 About Me:
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/main/profile.png" width="180" align="right" style="margin-left: 20px; border-radius: 15px;">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=FF2D2D&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+SECURE+CONNECTION...;%3E+IDENTITY+VERIFIED+%E2%9C%93;%3E+Welcome+to+Shivani's+terminal.;%3E+Cybersecurity+%7C+CTF+%7C+Frontend+Dev)](https://git.io/typing-svg)
 
-Hi, I'm **Shivani Kumari Singh!** 👋 <br>
+[![GitHub followers](https://img.shields.io/github/followers/shivanisingh-sks?label=Followers&style=for-the-badge&color=FF2D2D&labelColor=0d0d0d&logo=github)](https://github.com/shivanisingh-sks)
+[![Profile Views](https://komarev.com/ghpvc/?username=shivanisingh-sks&style=for-the-badge&color=FF2D2D&labelColor=0d0d0d&label=VISITORS)](https://github.com/shivanisingh-sks)
 
-I am a **B.Tech CSE (Cybersecurity)** student dedicated to exploring the intersection of secure networking and modern web development. I spend my time solving CTF challenges, mastering security tools, and building user-centric frontend projects. 
-
-I'm passionate about identifying vulnerabilities and engineering creative, secure solutions to real-world problems.
-
-<br clear="right">
+</div>
 
 ---
 
-### 🏗️ My 3D Building Game:
+## `> whoami`
+
+<img src="https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/main/profile.png" width="200" align="right" style="margin-left: 24px; border-radius: 15px;"/>
+
+```bash
+$ cat identity.txt
+```
+
+```
+╔══════════════════════════════════════════════════╗
+║  NAME     : Shivani Kumari Singh                 ║
+║  HANDLE   : @shivanisingh-sks                    ║
+║  DEGREE   : B.Tech CSE — Cybersecurity           ║
+║  ROLE     : Security Researcher + Frontend Dev   ║
+║  STATUS   : Solving CTFs & breaking things 🔴    ║
+║  PASSION  : Secure systems & creative UIs        ║
+║  LOCATION : India 🇮🇳                            ║
+╚══════════════════════════════════════════════════╝
+```
+
+> *"I am a B.Tech CSE (Cybersecurity) student dedicated to exploring the intersection of **secure networking** and **modern web development**. I spend my time solving CTF challenges, mastering security tools, and building user-centric frontend projects. Passionate about identifying vulnerabilities and engineering creative, secure solutions to real-world problems."*
+
+<br clear="right"/>
+
+---
+
+## `> ls skills/ --all`
+
+### ⚡ Languages
+![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=FF2D2D)
+![C++](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=FF2D2D)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=FF2D2D)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=FF2D2D)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=FF2D2D)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=FF2D2D)
+
+### 🛠 Frameworks & Platforms
+![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=FF2D2D)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=FF2D2D)
+![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=for-the-badge&logo=flutter&logoColor=FF2D2D)
+![Expo](https://img.shields.io/badge/Expo-0d0d0d?style=for-the-badge&logo=expo&logoColor=FF2D2D)
+![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=for-the-badge&logo=firebase&logoColor=FF2D2D)
+![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=FF2D2D)
+![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazon-aws&logoColor=FF2D2D)
+![Google Cloud](https://img.shields.io/badge/GCP-0d0d0d?style=for-the-badge&logo=google-cloud&logoColor=FF2D2D)
+![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=FF2D2D)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-0d0d0d?style=for-the-badge&logo=ffmpeg&logoColor=FF2D2D)
+
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=for-the-badge&logo=figma&logoColor=FF2D2D)
+![Canva](https://img.shields.io/badge/Canva-0d0d0d?style=for-the-badge&logo=canva&logoColor=FF2D2D)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=FF2D2D)
+![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=FF2D2D)
+![NPM](https://img.shields.io/badge/NPM-0d0d0d?style=for-the-badge&logo=npm&logoColor=FF2D2D)
+
+### 🛡️ Security Expertise
+![Network Security](https://img.shields.io/badge/Network_Security-1a0000?style=for-the-badge&logoColor=FF2D2D)
+![Zero-Trust](https://img.shields.io/badge/Zero--Trust_Architecture-1a0000?style=for-the-badge)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-1a0000?style=for-the-badge)
+![NIST Framework](https://img.shields.io/badge/NIST_Framework-1a0000?style=for-the-badge)
+![OT/ICS Security](https://img.shields.io/badge/OT%2FICS_Security-1a0000?style=for-the-badge)
+![CTF](https://img.shields.io/badge/CTF_Challenges-FF2D2D?style=for-the-badge&labelColor=1a0000)
+
+---
+
+## `> cat stats.log`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivanisingh-sks&show_icons=true&theme=transparent&hide_border=true&title_color=FF2D2D&icon_color=FF2D2D&text_color=ffffff&bg_color=0d0d0d" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanisingh-sks&layout=compact&theme=transparent&hide_border=true&title_color=FF2D2D&text_color=ffffff&bg_color=0d0d0d" />
+
+<br/>
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=shivanisingh-sks&theme=dark&hide_border=true&ring=FF2D2D&fire=FF2D2D&currStreakLabel=FF2D2D&background=0d0d0d&stroke=FF2D2D&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `> cat projects/featured.log`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ Qavach
+**Digital Service Delivery Framework**
+
+```
+FOCUS: E-Governance & Post-Quantum Cryptography
+```
+- Designed framework using **NIST-aligned PQC** to future-proof digital services
+- Implemented **Zero-Trust Architecture** for data integrity & privacy
+
+`Cryptography` `Zero-Trust` `NIST` `E-Governance`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ SwiftAutomate
+**OT/ICS Security & Monitoring Lab**
+
+```
+FOCUS: Industrial Control Systems & SOC Dashboards
+```
+- Built a low-cost ICS simulation with **Arduino + Prometheus/Grafana/Loki**
+- Custom **Web-based SOC Dashboard** for real-time security alerts
+
+`OT Security` `ICS` `Grafana` `Prometheus` `Arduino`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 C.A.R.E.
+**Secure Health Records Sharing**
+
+```
+FOCUS: Healthcare Privacy & AI Insights
+```
+- Architected secure data-sharing via **encrypted FHIR bundles** + zero-data-storage broker
+- Integrated **AI-based insights** for EMR medical report analysis
+
+`HealthTech` `FHIR` `AI/ML` `Data Privacy` `Encryption`
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ Cyber Eye Game
+**Interactive Contribution Grid**
+
+```
+FOCUS: Creative GitHub Profile Experience
+```
+- Cyberpunk eye that tracks cursor across the contribution grid
+- Hack, Pulse Wave & Glitch modes with live terminal log
+
+[![Play Now](https://img.shields.io/badge/▶_PLAY_NOW-FF2D2D?style=for-the-badge&labelColor=0d0d0d)](https://shivanisingh-sks.github.io/cyber-eye-game)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> render 3d_contributions.svg`
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Canyon" width="100%">
+  <img src="https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
 </p>
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivani-kumari-singh-102098314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanikumarisingh83@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shivanisingh-sks&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shivanisingh-sks&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanisingh-sks&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
-## 🛡️ Featured Projects
+## `> ping socials`
 
-### 🏗️ Qavach | Digital Service Delivery Framework
-* **Focus:** E-governance & Post-Quantum Cryptography (PQC)
-* Designed a framework utilizing **NIST-aligned PQC** to future-proof digital services.
-* Implemented **Zero-Trust Architecture** to guarantee data integrity and privacy.
-* `Cryptography` `Zero-Trust` `NIST Standards` `E-Governance`
+<div align="center">
 
-### ⚡ SwiftAutomate | OT/ICS Security & Monitoring Lab
-* **Focus:** Industrial Control Systems (ICS) & SOC Dashboards
-* Developed a low-cost ICS simulation lab integrating **Arduino sensors** with **Prometheus, Grafana, and Loki**.
-* Created a custom **Web-based SOC Dashboard** for real-time security alerts and process monitoring.
-* `OT Security` `ICS` `Grafana` `Prometheus` `Arduino`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivani_Kumari_Singh-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=FF2D2D&labelColor=0d0d0d)](https://www.linkedin.com/in/shivani-kumari-singh-102098314)
+[![Gmail](https://img.shields.io/badge/Email-shivanikumarisingh83-0d0d0d?style=for-the-badge&logo=gmail&logoColor=FF2D2D&labelColor=0d0d0d)](mailto:shivanikumarisingh83@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-shivanisingh--sks-0d0d0d?style=for-the-badge&logo=github&logoColor=FF2D2D&labelColor=0d0d0d)](https://github.com/shivanisingh-sks)
 
-### 🏥 C.A.R.E. | Secure Health Records Sharing
-* **Focus:** Healthcare Privacy & AI Insights
-* Architected a secure data-sharing system using **encrypted FHIR bundles** and a zero-data-storage broker.
-* Integrated **AI-based insights** to analyze medical reports directly within the EMR platform.
-* `HealthTech` `FHIR` `AI/ML` `Data Privacy` `Encryption`
+</div>
+
 ---
-### 🛡️ Security Expertise:
-`Network Security` `Zero-Trust Architecture` `Penetration Testing` `NIST Framework` `OT/ICS Security`
----
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/output/github-contribution-grid-snake-dark.svg)
+
+```
+> session established.
+> don't just scroll — drop a ⭐ if something caught your eye.
+> connection encrypted. stay curious. stay secure. 🖤
+```
+
+</div>
