@@ -16,7 +16,7 @@
 <td width="34%" align="center" valign="top">
 
 <!-- PIXEL ART AVATAR — upload pixel-avatar.svg to your repo root -->
-<img src="https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/main/pixel-avatar.svg" width="280" alt="Shivani Pixel Avatar"/>
+<img src="https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/main/profile.png" width="280" alt="Shivani Pixel Avatar"/>
 
 <br/>
 
