@@ -230,9 +230,50 @@ Secure data-sharing using **encrypted FHIR bundles** and a zero-data-storage bro
 
 ---
 
+## 🐍 Contribution Arena — Snake Game
+
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/output/github-contribution-grid-snake-dark.svg)
+> *Every green square below is a commit. Watch the snake eat them all.* 🎮
+
+![🐍](https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/output/github-contribution-grid-snake-dark.svg)
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  🐍  SNAKE IS EATING MY CONTRIBUTIONS — FEED IT WITH A ⭐        ║
+║  Every green cell = 1 commit   |   Snake grows with my output   ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🌌 3D Contribution Galaxy
+
+<div align="center">
+
+> *My commits visualized in 3D — generated fresh every 24 hours* 🔄
+
+<img src="https://raw.githubusercontent.com/shivanisingh-sks/shivanisingh-sks/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
+## `> ping socials`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivani_Kumari_Singh-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=FF2D2D&labelColor=0d0d0d)](https://www.linkedin.com/in/shivani-kumari-singh-102098314)
+[![Gmail](https://img.shields.io/badge/Email-shivanikumarisingh83-0d0d0d?style=for-the-badge&logo=gmail&logoColor=FF2D2D&labelColor=0d0d0d)](mailto:shivanikumarisingh83@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-shivanisingh--sks-0d0d0d?style=for-the-badge&logo=github&logoColor=FF2D2D&labelColor=0d0d0d)](https://github.com/shivanisingh-sks)
+
+</div>
+
+---
+
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7b2fff,100:020b14&height=110&section=footer&text=Securing%20the%20Digital%20World%20%F0%9F%9B%A1%EF%B8%8F&fontSize=16&fontColor=ffffff&fontAlignY=65"/>
 
