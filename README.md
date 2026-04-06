@@ -107,7 +107,6 @@ $ cat identity.txt
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=shivanisingh-sks&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
